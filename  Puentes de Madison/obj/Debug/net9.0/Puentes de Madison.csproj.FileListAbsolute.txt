@@ -1,0 +1,14 @@
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\bin\Debug\net9.0\Puentes de Madison.exe
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\bin\Debug\net9.0\Puentes de Madison.deps.json
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\bin\Debug\net9.0\Puentes de Madison.runtimeconfig.json
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\bin\Debug\net9.0\Puentes de Madison.dll
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\bin\Debug\net9.0\Puentes de Madison.pdb
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.AssemblyInfoInputs.cache
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.AssemblyInfo.cs
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.csproj.CoreCompileInputs.cache
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.dll
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\refint\Puentes de Madison.dll
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.pdb
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\Puentes de Madison.genruntimeconfig.cache
+C:\Users\Yamile\Desktop\Puentes de Madison\ Puentes de Madison\obj\Debug\net9.0\ref\Puentes de Madison.dll
