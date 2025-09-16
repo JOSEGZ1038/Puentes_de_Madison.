@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Puentes de Madison")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b926829b81281ead58ad3550c0269e34d04cd4f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Puentes de Madison")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Puentes de Madison")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

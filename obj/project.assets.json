@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yamile\\Desktop\\Puentes de Madison\\ Puentes de Madison\\Puentes de Madison.csproj",
+      "projectUniqueName": "C:\\Users\\Yamile\\Desktop\\Puentes de Madison\\Puentes de Madison.csproj",
       "projectName": "Puentes de Madison",
-      "projectPath": "C:\\Users\\Yamile\\Desktop\\Puentes de Madison\\ Puentes de Madison\\Puentes de Madison.csproj",
+      "projectPath": "C:\\Users\\Yamile\\Desktop\\Puentes de Madison\\Puentes de Madison.csproj",
       "packagesPath": "C:\\Users\\Yamile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yamile\\Desktop\\Puentes de Madison\\ Puentes de Madison\\obj\\",
+      "outputPath": "C:\\Users\\Yamile\\Desktop\\Puentes de Madison\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yamile\\AppData\\Roaming\\NuGet\\NuGet.Config"
